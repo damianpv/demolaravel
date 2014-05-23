@@ -1,0 +1,12 @@
+[Fri May 23 01:09:27.904497 2014] [authz_core:error] [pid 15020] [client 127.0.0.1:48664] AH01630: client denied by server configuration: /home/damian/projects_php/demolaravel/public/
+ient denied by server configuration: /home/damian/projects_php/demolaravel/public/favicon.ico
+[Fri May 23 01:12:03.197809 2014] [authz_core:error] [pid 15562] [client 127.0.0.1:48692] AH01630: client denied by server configuration: /home/damian/projects_php/demolaravel/public/
+[Fri May 23 01:12:03.959056 2014] [authz_core:error] [pid 15562] [client 127.0.0.1:48692] AH01630: client denied by server configuration: /home/damian/projects_php/demolaravel/public/
+[Fri May 23 01:12:04.326168 2014] [authz_core:error] [pid 15562] [client 127.0.0.1:48692] AH01630: client denied by server configuration: /home/damian/projects_php/demolaravel/public/
+[Fri May 23 01:12:04.568423 2014] [authz_core:error] [pid 15562] [client 127.0.0.1:48692] AH01630: client denied by server configuration: /home/damian/projects_php/demolaravel/public/
+[Fri May 23 01:15:02.184776 2014] [authz_core:error] [pid 15938] [client 127.0.0.1:48840] AH01630: client denied by server configuration: /home/damian/projects_php/demolaravel/public/
+[Fri May 23 01:16:58.111551 2014] [authz_core:error] [pid 15941] [client 127.0.0.1:48890] AH01630: client denied by server configuration: /home/damian/projects_php/demolaravel/public/
+[Fri May 23 01:16:58.856212 2014] [authz_core:error] [pid 15941] [client 127.0.0.1:48890] AH01630: client denied by server configuration: /home/damian/projects_php/demolaravel/public/
+[Fri May 23 01:16:59.344212 2014] [authz_core:error] [pid 15941] [client 127.0.0.1:48890] AH01630: client denied by server configuration: /home/damian/projects_php/demolaravel/public/
+[Fri May 23 01:16:59.606804 2014] [authz_core:error] [pid 15941] [client 127.0.0.1:48890] AH01630: client denied by server configuration: /home/damian/projects_php/demolaravel/public/
+[Fri May 23 01:16:59.815135 2014] [authz_core:error] [pid 15941] [client 127.0.0.1:48890] AH01630: client denied by server configuration: /home/damian/projects_php/demolaravel/public/
